@@ -11,11 +11,11 @@ I gain skills in popular web development tools among them Firebase, Github, Chro
 I have Completed course on web development from Programming Hero.
 Now I am looking for a position as a web developer where I can provide my skills and ability to write clean, efficient code.
 
-<h3>👩‍💻 Technologies that I know :</h3>
+<h2>👩‍💻 Technologies that I know :</h2>
 
 Node /MongoDB/Express/ REACT / JavaScript /Firebase/Netlify/Vercel/VS Code/GitHub/ HTML / CSS/Bootstrap/Tailwind
 
-<h3>👀 Current Overview :</h3>
+<h2>👀 Current Overview :</h2>
 
 - 🔭 I’m currently working on Personal Projects 
 - 🌱 I’m currently learning Back-End Development 
@@ -24,7 +24,7 @@ Node /MongoDB/Express/ REACT / JavaScript /Firebase/Netlify/Vercel/VS Code/GitHu
 - ⚡ Fun fact: I love coding and creating awesome websites 
 
 
-<h3>💬 Connect with me :</h3>
+<h2>💬 Connect with me :</h2>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mehedi2000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-mehedi-hasan-98a903259//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100013015020378)  
 
