@@ -11,7 +11,9 @@ I gain skills in popular web development tools among them Firebase, Github, Chro
 I have Completed course on web development from Programming Hero.
 Now I am looking for a position as a web developer where I can provide my skills and ability to write clean, efficient code.
 
-Skills: Node /MongoDB/Express/ REACT / JavaScript /Firebase/Netlify/Vercel/VS Code/GitHub/ HTML / CSS/Bootstrap/Tailwind
+<h3>👩‍💻 Technology That I Know :</h3>
+
+Node /MongoDB/Express/ REACT / JavaScript /Firebase/Netlify/Vercel/VS Code/GitHub/ HTML / CSS/Bootstrap/Tailwind
 
 <h3>👀 Current Overview :</h3>
 
