@@ -4,6 +4,7 @@
 ##  Junior Web Developer!!
 
 <h3>👱‍♂️ About Me :</h3>
+
 I am a self-motivated Web Developer with knowledge HTML5, CSS3, JAVASCRIPT, ES6, REACT, REACT ROUTER, AND REACT HOOKS.
 I am comfortable developing the backend using Nodejs, express js, MongoDB for Host Data, and JWT for authorization.
 I gain skills in popular web development tools among them Firebase, Github, Chrome Devtool, Vercel, and Netlify are mentionable and Mobile Responsive Web Development.
@@ -11,6 +12,8 @@ I have Completed course on web development from Programming Hero.
 Now I am looking for a position as a web developer where I can provide my skills and ability to write clean, efficient code.
 
 Skills: Node /MongoDB/Express/ REACT / JavaScript /Firebase/Netlify/Vercel/VS Code/GitHub/ HTML / CSS/Bootstrap/Tailwind
+
+<h3>👀 Current Overview :</h3>
 
 - 🔭 I’m currently working on Personal Projects 
 - 🌱 I’m currently learning Back-End Development 
