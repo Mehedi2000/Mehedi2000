@@ -1,4 +1,4 @@
-![ Junior Web Developer!!]([https://media.licdn.com/dms/image/D4D16AQGsoxCV0NnVoQ/profile-displaybackgroundimage-shrink_350_1400/0/1670488552115?e=1677110400&v=beta&t=zluAg4mFdSTvYQz9HV0bdiqEbtxFtIa-eqwuUQFXEkM](https://www.lambdatest.com/resources/images/news24.gif))
+![ Junior Web Developer!!](https://www.lambdatest.com/resources/images/news24.gif)
 
 # Hi there 👋, I'm Mehedi Hasan 😎
 ##  Junior Web Developer!!
