@@ -26,7 +26,10 @@ Node /MongoDB/Express/ REACT / JavaScript /Firebase/Netlify/Vercel/VS Code/GitHu
 
 <h2>💬 Connect with me :</h2>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mehedi2000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/[[[https://www.linkedin.com/in/md-mehedi-hasan-98a903259//](https://www.linkedin.com/in/mehedi2000/)](https://www.linkedin.com/in/mehedi2000/)](https://www.linkedin.com/in/mehedi2000/))  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>]([https://www.facebook.com/https://www.facebook.com/profile.php?id=100013015020378](https://www.facebook.com/official.mehedi.2000))  
+<p align="left">
+<a href="https://linkedin.com/in/mehedi2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehedi2000" height="30" width="40" /></a>
+<a href="https://fb.com/official.mehedi.2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="official.mehedi.2000" height="30" width="40" /></a>
+</p> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi2000)](https://github.com/anuraghazra/github-readme-stats)
 
