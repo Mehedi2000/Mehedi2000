@@ -1,4 +1,4 @@
-![ Junior Web Developer!!](<img height="500" src="https://www.lambdatest.com/resources/images/news24.gif">)
+![ Junior Web Developer!!](<img alt="Coding" height="500" src="https://www.lambdatest.com/resources/images/news24.gif">)
 
 # Hi there 👋, I'm Mehedi Hasan 😎
 ##  Junior Web Developer!!
